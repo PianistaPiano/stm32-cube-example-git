@@ -1,0 +1,9 @@
+/Debug/
+
+.cproject*
+.project*
+*.log
+*.xml
+*.html
+*.chm
+.settings
