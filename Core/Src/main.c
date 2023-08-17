@@ -95,6 +95,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+	  // Toggle LD2, 500ms
 	  HAL_GPIO_TogglePin(LD2_GPIO_Port, LD2_Pin);
 	  HAL_Delay(500);
     /* USER CODE END WHILE */
